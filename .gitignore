@@ -331,5 +331,6 @@ pyrightconfig.json
 
 
 images/
+models/*
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,visualstudiocode,opencv,python,git
